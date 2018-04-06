@@ -42,5 +42,6 @@ echo "------------------------------------------------"
 echo " Multi Login = kill "
 echo " Cara pakai : kill [nombor PID] "
 echo "------------------------------------------------"
-
+echo ""
+echo "~Mod By Orang Ganteng | 0895703796928~"
 echo "";
